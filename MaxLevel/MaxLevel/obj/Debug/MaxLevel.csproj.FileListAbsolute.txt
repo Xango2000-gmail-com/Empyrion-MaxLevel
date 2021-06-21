@@ -1,0 +1,14 @@
+C:\Users\Nick\Source\Repos\MaxLevel\MaxLevel\bin\Debug\MaxLevel.dll
+C:\Users\Nick\Source\Repos\MaxLevel\MaxLevel\bin\Debug\MaxLevel.pdb
+C:\Users\Nick\Source\Repos\MaxLevel\MaxLevel\obj\Debug\MaxLevel.csprojAssemblyReference.cache
+C:\Users\Nick\Source\Repos\MaxLevel\MaxLevel\obj\Debug\MaxLevel.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Source\Repos\MaxLevel\MaxLevel\obj\Debug\MaxLevel.dll
+C:\Users\Nick\Source\Repos\MaxLevel\MaxLevel\obj\Debug\MaxLevel.pdb
+F:\Repos\MaxLevel\MaxLevel\bin\Debug\MaxLevel.dll
+F:\Repos\MaxLevel\MaxLevel\bin\Debug\MaxLevel.pdb
+F:\Repos\MaxLevel\MaxLevel\obj\Debug\MaxLevel.csprojAssemblyReference.cache
+F:\Repos\MaxLevel\MaxLevel\obj\Debug\MaxLevel.csproj.CoreCompileInputs.cache
+F:\Repos\MaxLevel\MaxLevel\obj\Debug\MaxLevel.dll
+F:\Repos\MaxLevel\MaxLevel\obj\Debug\MaxLevel.pdb
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\MaxLevel\MaxLevel.dll
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\MaxLevel\MaxLevel.pdb
